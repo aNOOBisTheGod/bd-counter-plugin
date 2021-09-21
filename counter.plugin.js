@@ -1,7 +1,7 @@
 /**
  * @name counter
  * @author aNOOBis
- * @version 2.1.0
+ * @version 0.0.3
  * @description Allows you to be best counter on server. To start spam return /ss in text field. To stop press ctrl + R
  * @website https://anoobisthegod.github.io/web/site/
  */
@@ -15,8 +15,9 @@
                 github_username: 'aNOOBisTheGod'
             }
         ],
-        version: '0.0.1',
+        version: '0.0.3',
         description: 'Allows you to be best counter on server. To start spam return /ss in text field. To stop press ctrl + R',
+	github: 'https://github.com/aNOOBisTheGod/bd-counter-plugin',
     }
 };
 
