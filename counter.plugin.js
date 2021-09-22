@@ -16,7 +16,7 @@
             }
         ],
         version: '0.0.3',
-        description: 'Allows you to be best counter on server. To start spam return /ss in text field. To stop press ctrl + R',
+        description: 'Allows you to be best counter on server. To start count return /count [from] [to] in text field. To stop press ctrl + R',
 	github: 'https://github.com/aNOOBisTheGod/bd-counter-plugin',
     }
 };
